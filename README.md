@@ -1,4 +1,5 @@
 <code>👷 Speciality: Software engineer / Frontend / Backend</code><br>
+<code> General experience: 5 years</code>
 <code>⚪ Community: Metarhia</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
