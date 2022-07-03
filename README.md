@@ -1,4 +1,5 @@
 <code>👷 Speciality: Software engineer / Frontend / backend</code><br>
+<code>⚪ Community: Metarhia</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 0](TALKS.md)</code>
